@@ -1,0 +1,317 @@
+
+body{
+    /* width: 1260px; */
+    /* position: fixed; */
+  justify-content: center!important;
+  width: 100%;
+   background-color: #200122!important;  
+   /* background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kickstartcassiopeia.com%2Fimages%2Fscreenshot%25202021-03-06%2520at%252016.40.42.jpg&imgrefurl=https%3A%2F%2Fwww.kickstartcassiopeia.com%2Ftutorials%2Fgradient-in-header&tbnid=QsY1eCx43cCHBM&vet=12ahUKEwi7-qijteX8AhWvgScCHU9-BEsQMyhXegUIARCZAQ..i&docid=s7dUoAAOeFCeSM&w=1179&h=393&q=background%20gradient%20color%20with%20image%20css&ved=2ahUKEwi7-qijteX8AhWvgScCHU9-BEsQMyhXegUIARCZAQ"); */
+}
+img{
+    margin-top: 110px;
+    /* margin-left: 10px; */
+    border-radius: 20px;
+    /* padding-top: 50px; */
+    height: auto;
+}
+.nav-item{
+    margin-top: 150px;
+    margin-left: 5px;
+   font-weight: bolder;
+   letter-spacing: normal;
+}
+.sub{
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px!important;
+}
+.head{
+  
+display: inline-block!important;
+}
+.head >img{
+    margin-bottom: 50px;
+}
+ 
+
+.container{
+   
+    justify-content: center!important;
+    margin: 0 auto;
+    background-color:#200122!important;
+    display: center;
+    padding-left: 200px;
+    justify-content: space-around;
+}
+
+.b{
+    margin-top: 150px!important;
+    margin-left: 150px!important;
+    margin: 0 auto;
+    border-radius: 10px!important;
+    border: none;
+    color: white;
+    background-color: red;
+    padding: 5px 10px 5px 10px;
+    font-style: italic;
+    font-size: larger;
+}
+.row >img{
+margin-top: 100px!important;    
+}
+.row >img{
+    margin-top: 10px!important;
+}
+.row1{
+   margin-top: 200px;
+background-color: #200122!important;
+   
+}
+.row1 >p{
+    font-size: 100px!important;
+}
+.head{
+    
+}
+.ct{
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.bt{
+    width: 300px;
+}
+
+.button{
+    background-color: #200122!important;
+}
+.bb{
+background-color: red;
+    color: white;
+    /* border-radius: 10px; */
+    /* border: none; */
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    margin-top: 50px;
+    margin-left: 600px;
+    border-radius: 10px;
+    border: none;
+    justify-content: center!important;
+}
+.sub{
+    background-color: red;
+    color: white;
+      padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    margin-top: 50px;
+    margin-left: 570px;
+    border-radius: 10px;
+    border: none;
+    justify-content: center!important;
+
+}
+.head{
+    background-color: #200122!important;
+}
+.head{
+    background-color: #200122;
+}
+
+.first-heading{
+    margin-left: 600px;
+    margin-top: 20px;
+font-size: xx-large;
+    text-size-adjust: bolder!important;
+}
+.second-heading{
+    margin-left: 600px;
+    margin-top: 50px!important;
+    font-size: xx-large;
+}
+.tt{
+    color: red;
+}
+.para{
+    color: white;
+}
+.ct >h3{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+.gg{
+float: right!important;
+margin-right: 70px;
+}
+.ct{
+    margin-top: 200px;
+    padding-left: 600px;
+}
+.ct >h2{
+    color: white!important;
+}
+.kk >h1{
+    color: red;
+}
+.kk >h3{
+    color: gray;
+    padding-top: 20px;
+}
+.uu{
+    display: inline-block!important;
+}
+.kk{
+    margin-top: 30px;
+}
+.but{
+    margin-left: 490px;
+    /* background-color: red!important; */
+    border-radius: 10px!important;
+    margin-top: 30px;
+}
+.but >h3{
+    background-color: red!important;
+    color: white!important;
+    border-radius: 10px!important;
+    padding: 10px 20px!important;
+    border: none;
+}
+.line1{
+    color: white;
+    padding-top: 30px;
+     background-color: green;
+     padding-bottom: 30px;
+     width: 1260px;
+     margin-top: 50px;
+     /* margin-left: 115px; */
+     border-radius: 10px;
+}
+.line1 >h2{
+color: red;
+}
+.line2{
+    color: white;
+    padding-top: 30px;
+     background-color: green;
+     padding-bottom: 30px;
+     width: 1260px;
+     /* margin-left: 115px; */
+     margin-top: 20px;
+     border-radius: 10px;
+}
+.line2 >h2{
+    color: red;
+}
+.line3{
+    color: white;
+    padding-top: 30px;
+     background-color: green;
+     padding-bottom: 30px;
+     width: 1260px;
+     /* margin-left: 115px; */
+     margin-top: 20px;
+     border-radius: 10px;
+}
+.line3 >h2{
+    color: red;
+}
+.line4{
+    color: white;
+    padding-top: 30px;
+     background-color: green;
+     padding-bottom: 30px;
+     width: 1260px;
+     /* margin-left: 115px; */
+     margin-top: 20px;
+     border-radius: 10px;
+}
+.line4 >h2{
+    color: red; 
+}
+.line5{
+    color: white;
+    padding-top: 30px;
+     background-color: green;
+     padding-bottom: 30px;
+     width: 1260px;
+     /* margin-left: 115px; */
+     margin-top: 20px;
+     border-radius: 10px;
+}
+.line5 >h2{
+    color: red!important;
+}
+.faqs{
+    color: yellow;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+.aaa{
+    background-color: rgb(85, 38, 214);
+    width: 1260px;
+    /* margin-left: 115px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 10px;
+}
+.bbb{
+    background-color: rgb(85, 38, 214);
+    width: 1260px;
+    /* margin-left: 100px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.hh{
+    color: black;
+}
+.oo{
+    color: yellow;
+}
+.pp{
+    padding-left: 20px;
+}
+.rr{
+    color: yellow;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    margin-top: 50px;
+}
+.ll{
+    color: #fff;
+    margin-top: 30px;
+    font-style: italic;
+}
+.ss{
+    background-color: gray;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 1260px;
+    margin-left: 115px;
+    border-radius: 10px;
+}
+.lastlogo{
+    color: yellow;
+    padding-bottom: 50x;
+}
+
+
+
+
+
+
+
+
+
+
